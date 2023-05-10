@@ -1,6 +1,11 @@
 # City Night
 > WWDC2023 Swift Student Challenge Winner
 
+## Run instructions
+Please run the Swift Playground on **fullscreen** on Mac, and ensure that there the **preview is paused** and that there are **no duplicates running** to prevent double audio — while testing, I occasionally had to manually kill duplicate copies of it running.
+
+## Information
+
 Life is a constant struggle against the weight of expectations to always be productive and successful, and sometimes we fall under the pressure — it's difficult to remember to slow down and take care of ourselves. In this experience that I created, titled "City Night", I hope to remind the player that it's okay to take a break and accept help from others when things get tough, and it's the small moments of love that makes life worth living.
 
 Created using SwiftUI in Swift Playgrounds.
